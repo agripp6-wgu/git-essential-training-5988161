@@ -1,0 +1,1 @@
+This is content to practice in Git for D197 WGU's course
